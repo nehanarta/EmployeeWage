@@ -1,4 +1,4 @@
-package EmpWage;
+package EmpWagw2;
 
 public class EmpWage3 {
     public static void main(String[] args) {
